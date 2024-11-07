@@ -1,0 +1,9 @@
+# pycharm
+.idea
+
+# manim outputs
+media
+
+# env
+__pycache__
+.envrc
